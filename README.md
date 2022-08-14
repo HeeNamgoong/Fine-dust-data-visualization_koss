@@ -1,7 +1,8 @@
 # Fine_dust_data_visualization_koss4week
 
+* 4주차 과제 : PyQT5를 이용해 실내 미세먼지 데이터 시각화하기
 
-* 구현 영상
+# 구현 영상
 
 https://user-images.githubusercontent.com/104904309/183557590-e68a869e-2d9e-4be8-88f0-168034867f3c.mp4
 
@@ -19,7 +20,7 @@ https://user-images.githubusercontent.com/104904309/183557682-2ffcfee3-af6a-4a7a
 
 
 
-* 파이썬 코드 line by line
+# 파이썬 코드 line by line
 
 ```python
 from pymongo import MongoClient # python에서 mongodb로 데이터를 보내고 받을 때 쓰기 위함
